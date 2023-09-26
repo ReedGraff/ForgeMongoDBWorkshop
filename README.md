@@ -68,6 +68,7 @@ Start the Client
   npm start
 ```
 
+If we have time, we will delve into the code. If not, I highly advise everyone to please go over the code and learn how packages like MongoClient or mongoose communicate with express, CORS, and the app in general.
 
 ## Features in the project
 
